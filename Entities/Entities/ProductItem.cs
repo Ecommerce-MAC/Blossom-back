@@ -16,7 +16,6 @@ namespace Entities.Entities
            
         }
         public int Id { get; set; }
-        public int IdSuplier { get; set; }
         public int IdBrand { get; set; }
         public int Price { get; set; }
         public string Name { get; set; }
