@@ -8,7 +8,7 @@ using System.Web.Http.Cors;
 namespace APIServ.Controllers
 {
     [EnableCors(origins: "*", headers: "*", methods: "*")]
-    [Route("[controller] /[action]")]
+    [Route("[controller]/[action]")]
     public class ProductController : ControllerBase
     {
         private readonly ILogger<ProductController> _logger;
