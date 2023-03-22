@@ -27,8 +27,8 @@ namespace APIServ.Services
 
         public void UpdateProduct(ProductItem productItem)
         {
-            _productLogic.UpdateProductItem (productItem);
+            _productLogic.UpdateProductItem(productItem);
         }
-       
+
     }
 }

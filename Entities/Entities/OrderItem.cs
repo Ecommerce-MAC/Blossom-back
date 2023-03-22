@@ -16,10 +16,10 @@ namespace Entities.Entities
         public int IdUser { get; set; }
         public int Id { get; set; }
         public int ProductId { get; set; }
-        public decimal Lot { get; set; }
         public DateTime OrderDate { get; set; }
         public bool Status { get; set; }
         public bool IsPayed { get; set; }
+        public decimal Amount { get; set; }
         public bool IsActive { get;  set; }
     }
 }

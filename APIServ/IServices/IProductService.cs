@@ -9,6 +9,6 @@ namespace APIServ.IServices
         int InsertProduct(ProductItem productItem);
         void DeleteProduct(int id);
         void UpdateProduct(ProductItem productItem);
-        
+
     }
 }
