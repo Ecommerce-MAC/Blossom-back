@@ -16,13 +16,15 @@ namespace Entities.Entities
            
         }
         public int Id { get; set; }
-        public int IdSuplier { get; set; }
-        public int IdBrand { get; set; }
-        public int Price { get; set; }
         public string Name { get; set; }
-        public decimal Cost { get; set; }
+        public string Brand { get; set; }
         public string TypeProduct { get; set; }
-        public bool IsActive { get;  set; }
+
+        public string Description { get; set; }
+        public decimal Price { get; set; }   
+        public decimal Cost { get; set; }
+        public int Stock { get; set; }
+        public bool IsActive { get; set; }
         public bool IsPublic { get; set; }
     }
 }

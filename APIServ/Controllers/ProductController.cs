@@ -3,11 +3,12 @@ using Entities.Entities;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Security.Authentication;
+using System.Web.Http.Cors;
 
 namespace APIServ.Controllers
 {
-    [ApiController]
-    [Route("[controller] /[action]")]
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
+    [Route("[controller]/[action]")]
     public class ProductController : ControllerBase
     {
         private readonly ILogger<ProductController> _logger;

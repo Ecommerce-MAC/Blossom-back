@@ -29,8 +29,8 @@ namespace Logic.Logic
         {
             _serviceContext.Products.Update(productItem);
             _serviceContext.SaveChanges();
-
         }
+
 
         public void DeleteProductItem(int id)
         {

@@ -8,13 +8,16 @@ namespace Entities.Entities
 {
     public class UserItem
     {
-        public UserItem(string email)
+        public UserItem()
         {
             IsActive = true;
-            Email = email;
+           
             
         }
         public int Id { get; set; }
+        public string Name { get; set; }
+        public string UserName { get; set; }
+        public int IdRol { get; set; }
         public string Email { get; set; }
         private string EncryptedPassword { get; set; }
 
