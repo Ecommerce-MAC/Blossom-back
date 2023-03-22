@@ -21,7 +21,7 @@ namespace Entities.Entities
         public string TypeProduct { get; set; }
 
         public string Description { get; set; }
-        public int Price { get; set; }   
+        public decimal Price { get; set; }   
         public decimal Cost { get; set; }
         public int Stock { get; set; }
         public bool IsActive { get; set; }
