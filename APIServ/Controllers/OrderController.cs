@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace APIServ.Controllers
 {
     [ApiController]
-    [Route("[controller] /[action]")]
+    [Route("[controller]/[action]")]
     public class OrderController : ControllerBase
     {
         private readonly ILogger<OrderController> _logger;
