@@ -14,9 +14,13 @@ namespace Logic.Logic
     public class ProductLogic : BaseContextLogic, IProductLogic
     {
         public ProductLogic(ServiceContext serviceContext) : base(serviceContext) { }
+
+
         public List<ProductItem> GetAllProducts()
         {
-            return _serviceContext.Set<ProductItem>().ToList();
+            //filtrar por IsActive
+            return _serviceContext.Set<ProductItem>()
+                .Where(p => p.IsActive == true).ToList();
         }
         public int InsertProductItem(ProductItem productItem)
         {
@@ -35,13 +39,11 @@ namespace Logic.Logic
         public void DeleteProductItem(int id)
         {
             var productToDelete = _serviceContext.Set<ProductItem>()
-                 .Where(u => u.Id == id).First();
-
+             .Where(x => x.Id == id).First();
             productToDelete.IsActive = false;
-
             _serviceContext.SaveChanges();
 
         }
-     
+
     }
 }
