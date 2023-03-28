@@ -44,6 +44,10 @@ namespace Logic.Logic
             _serviceContext.SaveChanges();
 
         }
+        public ProductItem GetProductById(int Id)
+        {
+            return _serviceContext.Set<ProductItem>().FirstOrDefault(p => p.Id == Id);
+        }
 
     }
 }

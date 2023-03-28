@@ -29,6 +29,9 @@ namespace APIServ.Services
         {
             _productLogic.UpdateProductItem(productItem);
         }
-
+        public ProductItem GetProductById(int id)
+        {
+            return _productLogic.GetProductById(id);
+        }
     }
 }

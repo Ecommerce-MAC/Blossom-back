@@ -43,7 +43,13 @@ namespace APIServ.Controllers
         {
             _productService.UpdateProduct(productItem);
         }
-      
-    
+       
+        [HttpGet("{id}", Name = "GetProductById")]
+        public ProductItem GetProductById(int id)
+        {
+            return _productService.GetProductById(id);
+        }
+
+
     }
 }

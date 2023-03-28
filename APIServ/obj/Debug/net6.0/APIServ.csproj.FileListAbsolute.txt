@@ -97,6 +97,12 @@ C:\Users\Acalab\source\repos\acalabustos\TiendaAPI\TiendaAPI\APIServ\obj\Debug\n
 C:\Users\Acalab\source\repos\acalabustos\TiendaAPI\TiendaAPI\APIServ\obj\Debug\net6.0\APIServ.pdb
 C:\Users\Acalab\source\repos\acalabustos\TiendaAPI\TiendaAPI\APIServ\obj\Debug\net6.0\APIServ.genruntimeconfig.cache
 C:\Users\Acalab\source\repos\acalabustos\TiendaAPI\TiendaAPI\APIServ\obj\Debug\net6.0\ref\APIServ.dll
+C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.csproj.AssemblyReference.cache
+C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.AssemblyInfoInputs.cache
+C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.AssemblyInfo.cs
+C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.csproj.CoreCompileInputs.cache
+C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\APIServ.exe
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\appsettings.json
@@ -107,6 +113,10 @@ C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\APIServ.pdb
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Azure.Identity.dll
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\System.Web.Http.Cors.dll
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
@@ -142,6 +152,8 @@ C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Microsoft.OpenApi.
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -175,13 +187,6 @@ C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Logic.dll
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Entities.pdb
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Logic.pdb
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Data.pdb
-C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.csproj.AssemblyReference.cache
-C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.AssemblyInfoInputs.cache
-C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.AssemblyInfo.cs
-C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.csproj.CoreCompileInputs.cache
-C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\staticwebassets\msbuild.APIServ.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\staticwebassets\msbuild.build.APIServ.props
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIServ.props
@@ -196,9 +201,3 @@ C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\refint\APIServ.dll
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.pdb
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\APIServ.genruntimeconfig.cache
 C:\Users\Acalab\Desktop\Blossom-back\APIServ\obj\Debug\net6.0\ref\APIServ.dll
-C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\System.Web.Cors.dll
-C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\System.Net.Http.Formatting.dll
-C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\System.Web.Http.dll
-C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\System.Web.Http.Cors.dll
-C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Newtonsoft.Json.dll
-C:\Users\Acalab\Desktop\Blossom-back\APIServ\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
